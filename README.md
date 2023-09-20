@@ -1,7 +1,7 @@
-- 👋 Hi, I’m wangWanqi
-- 👀 I’m interested in Progamming and Statistic Analysis
-- 🌱 I’m currently learning R,Python and SAS
-- 💞️ I’m looking to collaborate on Health-related data cleansing and analysis
+- 👋 Hi, I’m wangWanqi,majoring in Preventive Medicine at Peking University.
+- 👀 I’m interested in Progamming and Statistic Analysis.
+- 🌱 I’m currently learning R,Python and SAS.
+- 💞️ I’m looking to collaborate on Health-related data cleansing and analysis.
 - 📫 How to reach me :📧1910306130@pku.edu.cn
 
 <!---
